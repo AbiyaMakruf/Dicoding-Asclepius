@@ -1,5 +1,5 @@
 // TODO: Silakan sesuaikan BASE URL dari endpoint Anda
-const BASE_URL = 'YOUR_BASE_URL';
+const BASE_URL = 'https://backend-service-711964789351.asia-southeast2.run.app';
 
 const ENDPOINT = {
   predict: `${BASE_URL}/predict`,
