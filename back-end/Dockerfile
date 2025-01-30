@@ -14,7 +14,7 @@ RUN npm install
 COPY . .
 
 # Expose port aplikasi (harus sesuai dengan yang dikonfigurasi di server.js)
-EXPOSE 3000
+EXPOSE 8080
 
 # Jalankan aplikasi
 CMD ["npm", "run","start"]
