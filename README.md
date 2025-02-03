@@ -1,6 +1,6 @@
 # Proyek Akhir: Belajar Penerapan Machine Learning dengan Google Cloud
 ## Penilaian Proyek
-Proyek ini berhasil mendapatkan bintang ?/5 pada submission dicoding course Belajar Penerapan Machine Learning dengan Google Cloud.
+Proyek ini berhasil mendapatkan bintang 5/5 pada submission dicoding course Belajar Penerapan Machine Learning dengan Google Cloud.
 
 ![Penilaian Proyek](README/penilaian_proyek.png)
 
